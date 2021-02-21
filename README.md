@@ -3,7 +3,7 @@
 
 ## 我是打铁的搬砖工
 
-- 🏡 作品：<a href="https://www.code-nav.cn" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/code-nav" target="_blank">求星星 ✨</a>
+- 🏡 作品：<a href="https://www.baidu.com" target="_blank">百度</a> | <a href="https://github.com/" target="_blank">github ✨</a>
 
 ## 新年提交
 
