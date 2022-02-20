@@ -9,7 +9,7 @@
 
 ## 我的语言
 
-<img align="center" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackymxp&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="center" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackymxp&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
 
@@ -34,4 +34,5 @@ Shell      2 hrs 35 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ## 与我联系
 
-<img align="center" height="400px" src="https://cdn.jsdelivr.net/gh/jackymxp/image-bed/java/20220208202146.png" />
+<!-- <img align="center" height="400px" src="https://cdn.jsdelivr.net/gh/jackymxp/image-bed/java/20220208202146.png" /> -->
+<img align="center" height="400px" src="https://cdn.jsdelivr.net/gh/jackymxp/image-bed/java/20220220113932.png" />
