@@ -1,6 +1,6 @@
 ## 我是打铁的搬砖工
 
-- 🏡 作品：<a href="https://www.baidu.com" target="_blank">百度</a> | <a href="https://github.com/" target="_blank">github ✨</a>
+- 🏡 作品： <a href="https://github.com/" target="_blank">github ✨</a>
 
 ## 这年提交
 
@@ -27,9 +27,6 @@ Shell      2 hrs 35 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
-## :star2: [Projects starred by me](https://github.com/maguowei/starred)
-
-[My Awesome Stars](AWESOME-STARS.md)
 
 
 ## 与我联系
